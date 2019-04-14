@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothCar</string>
+    <string name="PD">点击下面已配对的蓝牙设备进行连接，如果没发现目标蓝牙，请先用手机‘设置-->蓝牙’搜索并配对后再重新开启此程序</string>
+    <string name="s1">send(1)</string>
+    <string name="s2">send(2)</string>
+    <string name="s3">send(3)</string>
+    <string name="s4">send(4)</string>
+    <string name="s5">send(5)</string>
+</resources>
